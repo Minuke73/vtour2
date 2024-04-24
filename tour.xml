@@ -31,7 +31,7 @@
 			<cube url="panos/33-1.tiles/%s/l%l/%0v/l%l_%s_%0v_%0h.jpg" multires="512,768,1664,3200,6400" />
 		</image>
 
-		<hotspot name="spot2" style="skin_hotspotstyle" ath="-21.230" atv="18.219" linkedscene="scene_33-2" />
+		<hotspot name="spot2" style="skin_hotspotstyle" ath="-21.230" atv="18.219" linkedscene="scene_33-2" zoom="true" />
 		<hotspot type="image" name="spot1" url="skin/vtourskin_hotspot_point.png" style="skin_hotspotstyle" ath="8.416" atv="-0.238" linkmodal="modal1" onclick="custom_hotspotstyle_click();" />
 		<hotspot name="popup1" style="custom_hotspotext"  html="순천만 갯벌 " ath="8.515" atv="-4.056"  linkmodal="modal1" onclick="custom_hotspotstyle_click();" />
 	</scene>
@@ -48,7 +48,7 @@
 			<cube url="panos/33-2.tiles/%s/l%l/%0v/l%l_%s_%0v_%0h.jpg" multires="512,768,1664,3200,6400" />
 		</image>
 
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="15.570" atv="-18.441" distorted="false" zoom="false" linkedscene="scene_33-1" />
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="15.570" atv="-18.441" distorted="false" zoom="true" linkedscene="scene_33-1" />
 
 	</scene>
 
