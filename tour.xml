@@ -19,7 +19,7 @@
 		if(startactions !== null, startactions() );
 	</action>
 	
-	<scene name="scene_33-1" title="순천만 습지 풍경" onstart="" thumburl="panos/33-1.tiles/thumb.jpg" lat="" lng="" heading="">
+	<scene name="scene_33-1" title="순천만 풍경" onstart="" thumburl="panos/33-1.tiles/thumb.jpg" lat="" lng="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
